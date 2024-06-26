@@ -22,3 +22,4 @@
  carnx_sex_debug.0001.t: "Debug Sex"
  carnx_sex_debug.0001.desc: "I just had sex with [target.GetFirstNameNoTooltip]."
  carnx_sex_debug.0001.a: "OK"
+carnx_sex_debug_msg_character_got_pregnant: "$carnx_sex_debug_prefix_2$: Character got pregnant (father: [THIS.Var('father').Char.GetFullNameNoTooltip] ([THIS.Var('father').Char.GetID]), carn_pregnancy_chance: [THIS.Var('carn_pregnancy_chance').GetValue])"
